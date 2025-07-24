@@ -2,7 +2,7 @@
 
 🎓 **Mechanical Engineer | Quality & Manufacturing Enthusiast | Automotive Engineer | 3D Printing Innovator**  
 📍 Based in Windsor, ON, Canada  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:syedabdulmalik2001@gmail.com) • [GitHub](https://github.com/Syed-Malik)
+🌐 [LinkedIn](www.linkedin.com/in/syed-abdul-malik-498258247) • [Email](mailto:syedabdulmalik2001@gmail.com) • [GitHub](https://github.com/Syed-Malik)
 
 ---
 
