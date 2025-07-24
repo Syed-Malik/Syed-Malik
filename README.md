@@ -76,8 +76,8 @@ I’m currently seeking opportunities in manufacturing engineering, production s
 If you're hiring, collaborating, or just want to geek out about engineering, feel free to connect with me:
 
 🔗 [GitHub: Syed-Malik](https://github.com/Syed-Malik)  
-📧 Email: your.email@example.com  
-📄 Resume: [Available on Request or in Profile Repos]
+📧 Email: syedabdulmalik2001@gmail.com  
+📄 Contact: +1 226-961-9554
 
 ---
 
