@@ -1,85 +1,70 @@
-# 👋 Hi there, I'm Syed Abdul Malik
+# Hi there, I'm Syed Abdul Malik
 
-🎓 **Mechanical Engineer | Quality & Manufacturing Enthusiast | Automotive Engineer | 3D Printing Innovator**  
-📍 Based in Windsor, ON, Canada  
-🌐 [LinkedIn](www.linkedin.com/in/syed-abdul-malik-498258247) • [Email](mailto:syedabdulmalik2001@gmail.com) • [GitHub](https://github.com/Syed-Malik)
-
----
-
-## 🧠 About Me
-
-I'm Syed Abdul Malik, a passionate and forward-thinking Mechanical Engineer currently pursuing my Master's in Automotive Engineering at the University of Windsor, with a strong focus on vehicle dynamics, automation, robotics, and thermal systems. My engineering philosophy is rooted in innovation, precision, and impact-driven problem-solving.
-
-My career began at Dayananda Sagar University, where I built a strong foundation in mechanical design and 3D printing. Since then, I’ve expanded my expertise to include advanced manufacturing processes, quality assurance, materials testing, and computer-aided design (CAD). I have hands-on experience in sheet metal fabrication, 3D printing, robotic systems integration, and CMM-based quality inspections.
-
-In addition to my academic work, I've successfully completed internships and roles where I led or contributed to:
-
-Quality inspection of automotive components using CMM and vision systems
-
-Fabrication and assembly of mechanical prototypes
-
-Root cause analysis and process optimization using Six Sigma tools
-
-3D printer design, slicing optimization, and part fabrication
-
-Noise and vibration analysis (NVH) in hybrid vehicles
-
-I’m also exploring how AI and automation can transform traditional manufacturing and automotive systems. My passion for vehicle performance has led me to analyze aerodynamics, tire modeling, and suspension systems, especially in high-performance environments like Formula 1.
-
-What sets me apart is my ability to combine mechanical engineering principles with modern tools and interdisciplinary knowledge. Whether it’s building systems from scratch, refining production quality, or optimizing existing workflows, I’m committed to making a measurable difference.
-
-I’m currently seeking opportunities in manufacturing engineering, production systems, or quality assurance roles where I can contribute meaningfully and grow as a professional.
+**Mechanical Engineer | Quality & Manufacturing Enthusiast | Automotive Engineer | 3D Printing Innovator**  
+Based in Windsor, ON, Canada  
+[LinkedIn](www.linkedin.com/in/syed-abdul-malik-498258247) • [Email](mailto:syedabdulmalik2001@gmail.com) • [GitHub](https://github.com/Syed-Malik)
 
 ---
 
-## 🚀 My Key Skills
+## About Me
+
+I’m Syed Abdul Malik, a mechanical engineer currently pursuing my Master's in Automotive Engineering at the University of Windsor. My interests span across quality assurance, manufacturing systems, and 3D printing. With a solid foundation in mechanical design and practical experience in both academic and industrial settings, I enjoy solving real-world engineering problems and continuously building on my skills.
+
+Over the years, I’ve worked on a variety of projects—from developing a functional 3D printer to analyzing hybrid vehicle thermodynamics and optimizing quality control processes in manufacturing. I’ve gained hands-on experience with sheet metal fabrication, inspection tools like CMMs, Six Sigma methodologies, and CAD tools such as SolidWorks and CATIA.
+
+What motivates me is seeing how small improvements in design or process can lead to big gains in efficiency and reliability. I’m particularly interested in the intersection of engineering and automation, and how modern technologies like AI and robotics can reshape production and vehicle systems.
+
+I'm now actively looking for roles in manufacturing, quality, or process engineering where I can bring value, learn from industry experts, and contribute to meaningful projects.
+
+---
+
+## Key Skills
 
 - **CAD & Simulation**: SolidWorks, CATIA, Siemens NX, AutoCAD  
-- **Quality Engineering**: CMM inspection, PPAP, GD&T, Root Cause Analysis, 5 Why, Fishbone  
-- **Manufacturing**: Sheet Metal Fabrication, Production Line Support, Tooling Design  
-- **3D Printing**: FDM printing, design optimization, material selection, hands-on fabrication  
-- **Programming & Data Tools**: MATLAB, Python, Power BI   
-- **Soft Skills**: Leadership, Critical Thinking, Communication, Team Collaboration  
+- **Quality Engineering**: CMM inspection, GD&T, Root Cause Analysis, PPAP, 5 Why, Fishbone  
+- **Manufacturing**: Sheet Metal Fabrication, Tooling Design, Production Line Support  
+- **3D Printing**: FDM printing, slicing optimization, material selection, end-to-end fabrication  
+- **Software & Tools**: MATLAB, Python, Power BI  
+- **Soft Skills**: Team Collaboration, Problem Solving, Communication, Critical Thinking  
 
 ---
 
-## 🔧 Projects & Highlights
+## Projects & Highlights
 
-### 🖨️ Cost-Effective 3D Printer Development
-- Designed and fabricated a fully functioning low-cost 3D printer using open-source components and aluminum profiles.
-- Gained hands-on experience in FDM printing, extrusion mechanics, firmware configuration, and calibration.
+### Cost-Effective 3D Printer Development  
+Designed and built a working low-cost 3D printer using open-source hardware and aluminum extrusion profiles. This included hands-on experience with slicing software, firmware calibration, and mechanical assembly.
 
-### ⚙️ Quality Inspection Engineer @ Peenya Fine Comp PVT.LTD
-- Led dimensional inspection of machined parts and assembly components using calipers, micrometers, and gauges.
-- Assisted in root cause analysis and implemented quality improvements in warehouse operations.
+### Quality Inspection Engineer – Peenya Fine Comp PVT. LTD  
+Performed dimensional inspections on machined and sheet metal components using gauges and CMMs. Supported quality improvement initiatives and participated in daily production meetings to resolve on-floor issues.
 
-### 🚘 Automotive Thermodynamics (Toyota Camry HEV)
-- Built a detailed thermal system model using **KULI** to simulate real-world HVAC behavior in hybrid vehicles.
-- Proposed improvements for heat exchanger performance and system energy efficiency.
+### Automotive HVAC Simulation – Toyota Camry HEV  
+Used KULI software to simulate thermal performance of hybrid vehicle HVAC systems. Proposed changes to enhance cooling system performance and reduce overall energy consumption.
 
-### 📊 Active Noise Control in Cabin (ANC Project)
-- Simulated ANC systems inside vehicle cabins using MATLAB for signal processing and real-time control loop analysis.
+### Active Noise Control Project – Vehicle NVH  
+Developed a MATLAB-based model for active noise cancellation in automotive cabins, analyzing control loops and real-time feedback mechanisms for reducing in-cabin noise levels.
 
 ---
 
-## 💡 What I Bring to the Table
+## What I Bring to the Table
 
-✅ Strong foundation in **mechanical & production engineering**  
-✅ Proven ability to work under pressure and solve problems quickly  
-✅ Eagerness to learn and apply **AI, robotics**, and **automated systems**  
-✅ Ability to bridge the gap between **design**, **testing**, and **production**
-
----
-
-## 📫 Let's Connect!
-
-If you're hiring, collaborating, or just want to geek out about engineering, feel free to connect with me:
-
-🔗 [GitHub: Syed-Malik](https://github.com/Syed-Malik)  
-📧 Email: syedabdulmalik2001@gmail.com  
-📄 Contact: +1 226-961-9554
+- Solid foundation in mechanical and production engineering principles  
+- Hands-on experience in quality control, inspection, and manufacturing process optimization  
+- Strong problem-solving mindset and attention to detail  
+- Curiosity and motivation to explore new technologies and engineering tools  
+- Effective communicator and collaborative team member
 
 ---
 
-_“Engineering is not only solving problems—it's imagining better solutions.”_
+## Let's Connect
+
+Feel free to connect with me to discuss opportunities, collaborations, or just to talk engineering.
+
+GitHub: [Syed-Malik](https://github.com/Syed-Malik)  
+Email: syedabdulmalik2001@gmail.com  
+Phone: +1 226-961-9554
+
+---
+
+“Engineering is not only solving problems—it’s imagining better solutions.”
+
 
